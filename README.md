@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @raygray031
-- 👀 I’m interested in making something whcih can live forever.
-- 🌱 I’m currently learning application Devlopment. 
-- 📫 How to reach me ..
- raygray031@gmail.com
+Greetings! 👋 I'm RayGray, a passionate expert at the intersection of Network Security, Social Media, Web Design, and UI/UX. With a robust background in safeguarding digital landscapes and crafting captivating online experiences, I'm here to fortify your digital presence and elevate your projects to new heights.
